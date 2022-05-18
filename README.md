@@ -9,10 +9,6 @@ This repo isn't maintained anymore, it's here only as a reference.
 
 *Remember that this is the **experimental reborn** version, so there's no guarantee the mod will work or even compile.*
 
-## Getting started
-Check out the [build guide](https://wiki.tiltedphoques.com/tilted-online/coding/build-guide) for setup and development info on the project. When writing code, check the [code guidelines](https://wiki.tiltedphoques.com/tilted-online/coding/code-guidelines)
- and make sure to run clang-format!
-
 ## Contributing
 Have some experience in C++, and want to help advance the project faster? Contribute!
 - Check the issues, it's a good place to start when you don't know what to do.
